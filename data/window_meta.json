@@ -1,0 +1,455 @@
+{
+  "junction_ids": [
+    "10",
+    "11",
+    "12",
+    "13",
+    "21",
+    "22",
+    "23",
+    "31",
+    "32"
+  ],
+  "window": 48,
+  "stride": 8,
+  "report_ts": 300,
+  "leak_model": "orifice_add_leak",
+  "leak_diameters_m": [
+    0.02,
+    0.03,
+    0.05
+  ],
+  "leak_discharge_coeff": 0.75,
+  "schedules": [
+    {
+      "type": "normal",
+      "seed": 892509
+    },
+    {
+      "type": "normal",
+      "seed": 7739560
+    },
+    {
+      "type": "normal",
+      "seed": 6545715
+    },
+    {
+      "type": "normal",
+      "seed": 4388784
+    },
+    {
+      "type": "normal",
+      "seed": 4330152
+    },
+    {
+      "type": "normal",
+      "seed": 8585979
+    },
+    {
+      "type": "normal",
+      "seed": 859456
+    },
+    {
+      "type": "normal",
+      "seed": 6973680
+    },
+    {
+      "type": "normal",
+      "seed": 2014695
+    },
+    {
+      "type": "normal",
+      "seed": 941773
+    },
+    {
+      "type": "normal",
+      "seed": 5264789
+    },
+    {
+      "type": "normal",
+      "seed": 9756223
+    },
+    {
+      "type": "normal",
+      "seed": 7357523
+    },
+    {
+      "type": "normal",
+      "seed": 7611397
+    },
+    {
+      "type": "normal",
+      "seed": 7174772
+    },
+    {
+      "type": "normal",
+      "seed": 7860643
+    },
+    {
+      "type": "normal",
+      "seed": 5132265
+    },
+    {
+      "type": "normal",
+      "seed": 1281136
+    },
+    {
+      "type": "normal",
+      "seed": 8397482
+    },
+    {
+      "type": "normal",
+      "seed": 4503859
+    },
+    {
+      "type": "normal",
+      "seed": 5003519
+    },
+    {
+      "type": "normal",
+      "seed": 3707980
+    },
+    {
+      "type": "normal",
+      "seed": 1825496
+    },
+    {
+      "type": "normal",
+      "seed": 9267649
+    },
+    {
+      "type": "normal",
+      "seed": 7815674
+    },
+    {
+      "type": "normal",
+      "seed": 6438651
+    },
+    {
+      "type": "normal",
+      "seed": 4024143
+    },
+    {
+      "type": "normal",
+      "seed": 8227616
+    },
+    {
+      "type": "normal",
+      "seed": 5454291
+    },
+    {
+      "type": "normal",
+      "seed": 4434141
+    },
+    {
+      "type": "normal",
+      "seed": 4504595
+    },
+    {
+      "type": "normal",
+      "seed": 2272387
+    },
+    {
+      "type": "normal",
+      "seed": 921359
+    },
+    {
+      "type": "normal",
+      "seed": 5545847
+    },
+    {
+      "type": "normal",
+      "seed": 8878898
+    },
+    {
+      "type": "normal",
+      "seed": 638172
+    },
+    {
+      "type": "normal",
+      "seed": 8582912
+    },
+    {
+      "type": "normal",
+      "seed": 8276311
+    },
+    {
+      "type": "normal",
+      "seed": 2767596
+    },
+    {
+      "type": "normal",
+      "seed": 6316643
+    },
+    {
+      "type": "leak",
+      "seed": 1652290,
+      "leak_node": "10",
+      "size_k": 0,
+      "leak_diameter_m": 0.02,
+      "leak_flow_mean_m3s": 0.009368705563247204,
+      "active_start_h": 6,
+      "active_end_h": 14
+    },
+    {
+      "type": "leak",
+      "seed": 7580877,
+      "leak_node": "10",
+      "size_k": 1,
+      "leak_diameter_m": 0.03,
+      "leak_flow_mean_m3s": 0.022020189091563225,
+      "active_start_h": 2,
+      "active_end_h": 10
+    },
+    {
+      "type": "leak",
+      "seed": 7005229,
+      "leak_node": "10",
+      "size_k": 2,
+      "leak_diameter_m": 0.05,
+      "leak_flow_mean_m3s": 0.05762040987610817,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 3545259,
+      "leak_node": "11",
+      "size_k": 0,
+      "leak_diameter_m": 0.02,
+      "leak_flow_mean_m3s": 0.009731074795126915,
+      "active_start_h": 12,
+      "active_end_h": 20
+    },
+    {
+      "type": "leak",
+      "seed": 679200,
+      "leak_node": "11",
+      "size_k": 1,
+      "leak_diameter_m": 0.03,
+      "leak_flow_mean_m3s": 0.0213489830493927,
+      "active_start_h": 4,
+      "active_end_h": 12
+    },
+    {
+      "type": "leak",
+      "seed": 9706980,
+      "leak_node": "11",
+      "size_k": 2,
+      "leak_diameter_m": 0.05,
+      "leak_flow_mean_m3s": 0.05740344896912575,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 4456874,
+      "leak_node": "12",
+      "size_k": 0,
+      "leak_diameter_m": 0.02,
+      "leak_flow_mean_m3s": 0.009707263670861721,
+      "active_start_h": 3,
+      "active_end_h": 11
+    },
+    {
+      "type": "leak",
+      "seed": 8931211,
+      "leak_node": "12",
+      "size_k": 1,
+      "leak_diameter_m": 0.03,
+      "leak_flow_mean_m3s": 0.021492181345820427,
+      "active_start_h": 10,
+      "active_end_h": 18
+    },
+    {
+      "type": "leak",
+      "seed": 6779190,
+      "leak_node": "12",
+      "size_k": 2,
+      "leak_diameter_m": 0.05,
+      "leak_flow_mean_m3s": 0.057940710335969925,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 7783834,
+      "leak_node": "13",
+      "size_k": 0,
+      "leak_diameter_m": 0.02,
+      "leak_flow_mean_m3s": 0.009485923685133457,
+      "active_start_h": 6,
+      "active_end_h": 14
+    },
+    {
+      "type": "leak",
+      "seed": 7598994,
+      "leak_node": "13",
+      "size_k": 1,
+      "leak_diameter_m": 0.03,
+      "leak_flow_mean_m3s": 0.021178370341658592,
+      "active_start_h": 4,
+      "active_end_h": 12
+    },
+    {
+      "type": "leak",
+      "seed": 1946387,
+      "leak_node": "13",
+      "size_k": 2,
+      "leak_diameter_m": 0.05,
+      "leak_flow_mean_m3s": 0.05534699559211731,
+      "active_start_h": 9,
+      "active_end_h": 17
+    },
+    {
+      "type": "leak",
+      "seed": 3639060,
+      "leak_node": "21",
+      "size_k": 0,
+      "leak_diameter_m": 0.02,
+      "leak_flow_mean_m3s": 0.009313507005572319,
+      "active_start_h": 10,
+      "active_end_h": 18
+    },
+    {
+      "type": "leak",
+      "seed": 4667210,
+      "leak_node": "21",
+      "size_k": 1,
+      "leak_diameter_m": 0.03,
+      "leak_flow_mean_m3s": 0.02099890448153019,
+      "active_start_h": 14,
+      "active_end_h": 22
+    },
+    {
+      "type": "leak",
+      "seed": 4977915,
+      "leak_node": "21",
+      "size_k": 2,
+      "leak_diameter_m": 0.05,
+      "leak_flow_mean_m3s": 0.056172024458646774,
+      "active_start_h": 7,
+      "active_end_h": 15
+    },
+    {
+      "type": "leak",
+      "seed": 438037,
+      "leak_node": "22",
+      "size_k": 0,
+      "leak_diameter_m": 0.02,
+      "leak_flow_mean_m3s": 0.009707675315439701,
+      "active_start_h": 4,
+      "active_end_h": 12
+    },
+    {
+      "type": "leak",
+      "seed": 5465695,
+      "leak_node": "22",
+      "size_k": 1,
+      "leak_diameter_m": 0.03,
+      "leak_flow_mean_m3s": 0.021097488701343536,
+      "active_start_h": 12,
+      "active_end_h": 20
+    },
+    {
+      "type": "leak",
+      "seed": 1542894,
+      "leak_node": "22",
+      "size_k": 2,
+      "leak_diameter_m": 0.05,
+      "leak_flow_mean_m3s": 0.05703933909535408,
+      "active_start_h": 10,
+      "active_end_h": 18
+    },
+    {
+      "type": "leak",
+      "seed": 7433759,
+      "leak_node": "23",
+      "size_k": 0,
+      "leak_diameter_m": 0.02,
+      "leak_flow_mean_m3s": 0.009464059956371784,
+      "active_start_h": 11,
+      "active_end_h": 19
+    },
+    {
+      "type": "leak",
+      "seed": 6830489,
+      "leak_node": "23",
+      "size_k": 1,
+      "leak_diameter_m": 0.03,
+      "leak_flow_mean_m3s": 0.021990103647112846,
+      "active_start_h": 3,
+      "active_end_h": 11
+    },
+    {
+      "type": "leak",
+      "seed": 9225278,
+      "leak_node": "23",
+      "size_k": 2,
+      "leak_diameter_m": 0.05,
+      "leak_flow_mean_m3s": 0.057364944368600845,
+      "active_start_h": 6,
+      "active_end_h": 14
+    },
+    {
+      "type": "leak",
+      "seed": 7447621,
+      "leak_node": "31",
+      "size_k": 0,
+      "leak_diameter_m": 0.02,
+      "leak_flow_mean_m3s": 0.00926277507096529,
+      "active_start_h": 11,
+      "active_end_h": 19
+    },
+    {
+      "type": "leak",
+      "seed": 3666426,
+      "leak_node": "31",
+      "size_k": 1,
+      "leak_diameter_m": 0.03,
+      "leak_flow_mean_m3s": 0.019814400002360344,
+      "active_start_h": 12,
+      "active_end_h": 20
+    },
+    {
+      "type": "leak",
+      "seed": 9675097,
+      "leak_node": "31",
+      "size_k": 2,
+      "leak_diameter_m": 0.05,
+      "leak_flow_mean_m3s": 0.047771867364645004,
+      "active_start_h": 7,
+      "active_end_h": 15
+    },
+    {
+      "type": "leak",
+      "seed": 4108503,
+      "leak_node": "32",
+      "size_k": 0,
+      "leak_diameter_m": 0.02,
+      "leak_flow_mean_m3s": 0.008775277994573116,
+      "active_start_h": 12,
+      "active_end_h": 20
+    },
+    {
+      "type": "leak",
+      "seed": 3258253,
+      "leak_node": "32",
+      "size_k": 1,
+      "leak_diameter_m": 0.03,
+      "leak_flow_mean_m3s": 0.019563602283596992,
+      "active_start_h": 12,
+      "active_end_h": 20
+    },
+    {
+      "type": "leak",
+      "seed": 9055357,
+      "leak_node": "32",
+      "size_k": 2,
+      "leak_diameter_m": 0.05,
+      "leak_flow_mean_m3s": 0.040592025965452194,
+      "active_start_h": 7,
+      "active_end_h": 15
+    }
+  ]
+}

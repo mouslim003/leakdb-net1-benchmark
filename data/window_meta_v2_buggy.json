@@ -1,0 +1,421 @@
+{
+  "junction_ids": [
+    "10",
+    "11",
+    "12",
+    "13",
+    "21",
+    "22",
+    "23",
+    "31",
+    "32"
+  ],
+  "window": 48,
+  "stride": 8,
+  "report_ts": 300,
+  "schedules": [
+    {
+      "type": "normal",
+      "seed": 892509
+    },
+    {
+      "type": "normal",
+      "seed": 7739560
+    },
+    {
+      "type": "normal",
+      "seed": 6545715
+    },
+    {
+      "type": "normal",
+      "seed": 4388784
+    },
+    {
+      "type": "normal",
+      "seed": 4330152
+    },
+    {
+      "type": "normal",
+      "seed": 8585979
+    },
+    {
+      "type": "normal",
+      "seed": 859456
+    },
+    {
+      "type": "normal",
+      "seed": 6973680
+    },
+    {
+      "type": "normal",
+      "seed": 2014695
+    },
+    {
+      "type": "normal",
+      "seed": 941773
+    },
+    {
+      "type": "normal",
+      "seed": 5264789
+    },
+    {
+      "type": "normal",
+      "seed": 9756223
+    },
+    {
+      "type": "normal",
+      "seed": 7357523
+    },
+    {
+      "type": "normal",
+      "seed": 7611397
+    },
+    {
+      "type": "normal",
+      "seed": 7174772
+    },
+    {
+      "type": "normal",
+      "seed": 7860643
+    },
+    {
+      "type": "normal",
+      "seed": 5132265
+    },
+    {
+      "type": "normal",
+      "seed": 1281136
+    },
+    {
+      "type": "normal",
+      "seed": 8397482
+    },
+    {
+      "type": "normal",
+      "seed": 4503859
+    },
+    {
+      "type": "normal",
+      "seed": 5003519
+    },
+    {
+      "type": "normal",
+      "seed": 3707980
+    },
+    {
+      "type": "normal",
+      "seed": 1825496
+    },
+    {
+      "type": "normal",
+      "seed": 9267649
+    },
+    {
+      "type": "normal",
+      "seed": 7815674
+    },
+    {
+      "type": "normal",
+      "seed": 6438651
+    },
+    {
+      "type": "normal",
+      "seed": 4024143
+    },
+    {
+      "type": "normal",
+      "seed": 8227616
+    },
+    {
+      "type": "normal",
+      "seed": 5454291
+    },
+    {
+      "type": "normal",
+      "seed": 4434141
+    },
+    {
+      "type": "normal",
+      "seed": 4504595
+    },
+    {
+      "type": "normal",
+      "seed": 2272387
+    },
+    {
+      "type": "normal",
+      "seed": 921359
+    },
+    {
+      "type": "normal",
+      "seed": 5545847
+    },
+    {
+      "type": "normal",
+      "seed": 8878898
+    },
+    {
+      "type": "normal",
+      "seed": 638172
+    },
+    {
+      "type": "normal",
+      "seed": 8582912
+    },
+    {
+      "type": "normal",
+      "seed": 8276311
+    },
+    {
+      "type": "normal",
+      "seed": 2767596
+    },
+    {
+      "type": "normal",
+      "seed": 6316643
+    },
+    {
+      "type": "leak",
+      "seed": 1652290,
+      "leak_node": "10",
+      "size_k": 0,
+      "coeff": 0.02,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 7580877,
+      "leak_node": "10",
+      "size_k": 1,
+      "coeff": 0.06,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 7005229,
+      "leak_node": "10",
+      "size_k": 2,
+      "coeff": 0.15,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 3545259,
+      "leak_node": "11",
+      "size_k": 0,
+      "coeff": 0.02,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 679200,
+      "leak_node": "11",
+      "size_k": 1,
+      "coeff": 0.06,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 9706980,
+      "leak_node": "11",
+      "size_k": 2,
+      "coeff": 0.15,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 4456874,
+      "leak_node": "12",
+      "size_k": 0,
+      "coeff": 0.02,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 8931211,
+      "leak_node": "12",
+      "size_k": 1,
+      "coeff": 0.06,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 6779190,
+      "leak_node": "12",
+      "size_k": 2,
+      "coeff": 0.15,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 7783834,
+      "leak_node": "13",
+      "size_k": 0,
+      "coeff": 0.02,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 7598994,
+      "leak_node": "13",
+      "size_k": 1,
+      "coeff": 0.06,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 1946387,
+      "leak_node": "13",
+      "size_k": 2,
+      "coeff": 0.15,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 3639060,
+      "leak_node": "21",
+      "size_k": 0,
+      "coeff": 0.02,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 4667210,
+      "leak_node": "21",
+      "size_k": 1,
+      "coeff": 0.06,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 4977915,
+      "leak_node": "21",
+      "size_k": 2,
+      "coeff": 0.15,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 438037,
+      "leak_node": "22",
+      "size_k": 0,
+      "coeff": 0.02,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 5465695,
+      "leak_node": "22",
+      "size_k": 1,
+      "coeff": 0.06,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 1542894,
+      "leak_node": "22",
+      "size_k": 2,
+      "coeff": 0.15,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 7433759,
+      "leak_node": "23",
+      "size_k": 0,
+      "coeff": 0.02,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 6830489,
+      "leak_node": "23",
+      "size_k": 1,
+      "coeff": 0.06,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 9225278,
+      "leak_node": "23",
+      "size_k": 2,
+      "coeff": 0.15,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 7447621,
+      "leak_node": "31",
+      "size_k": 0,
+      "coeff": 0.02,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 3666426,
+      "leak_node": "31",
+      "size_k": 1,
+      "coeff": 0.06,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 9675097,
+      "leak_node": "31",
+      "size_k": 2,
+      "coeff": 0.15,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 4108503,
+      "leak_node": "32",
+      "size_k": 0,
+      "coeff": 0.02,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 3258253,
+      "leak_node": "32",
+      "size_k": 1,
+      "coeff": 0.06,
+      "active_start_h": 8,
+      "active_end_h": 16
+    },
+    {
+      "type": "leak",
+      "seed": 9055357,
+      "leak_node": "32",
+      "size_k": 2,
+      "coeff": 0.15,
+      "active_start_h": 8,
+      "active_end_h": 16
+    }
+  ]
+}
